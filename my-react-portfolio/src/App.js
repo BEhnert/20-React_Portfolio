@@ -14,11 +14,11 @@ function App() {
         <NavBar />  
         <Router>
           <Route exact path="/" component={Home} />
-          <Route exact path="/20-react_portfolio" component={Home} />
+          <Route exact path="/20-react_portfolio/" component={Home} />
           <Route exact path="/projects" component={Projects} />
           <Route exact path="/20-react_portfolio/projects" component={Projects} />
           <Route exact path="/resume" component={Resume} />
-          <Route exact path="/20-react_portfolio//resume" component={Resume} />
+          <Route exact path="/20-react_portfolio/resume" component={Resume} />
           </Router>
         
         <Footer />
