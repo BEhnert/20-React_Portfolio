@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f490d50.chunk.css",
-    "main.js": "/static/js/main.7c71b2af.chunk.js",
-    "main.js.map": "/static/js/main.7c71b2af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.93cdf909.js",
-    "runtime-main.js.map": "/static/js/runtime-main.93cdf909.js.map",
-    "static/js/2.9647c6d4.chunk.js": "/static/js/2.9647c6d4.chunk.js",
-    "static/js/2.9647c6d4.chunk.js.map": "/static/js/2.9647c6d4.chunk.js.map",
-    "static/js/3.8157910e.chunk.js": "/static/js/3.8157910e.chunk.js",
-    "static/js/3.8157910e.chunk.js.map": "/static/js/3.8157910e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4f490d50.chunk.css.map": "/static/css/main.4f490d50.chunk.css.map",
-    "static/js/2.9647c6d4.chunk.js.LICENSE.txt": "/static/js/2.9647c6d4.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/mountain.bf33d688.jpg"
+    "main.css": "/20-react_portfolio/static/css/main.4afbc32f.chunk.css",
+    "main.js": "/20-react_portfolio/static/js/main.13f87602.chunk.js",
+    "main.js.map": "/20-react_portfolio/static/js/main.13f87602.chunk.js.map",
+    "runtime-main.js": "/20-react_portfolio/static/js/runtime-main.2441f478.js",
+    "runtime-main.js.map": "/20-react_portfolio/static/js/runtime-main.2441f478.js.map",
+    "static/js/2.1b779768.chunk.js": "/20-react_portfolio/static/js/2.1b779768.chunk.js",
+    "static/js/2.1b779768.chunk.js.map": "/20-react_portfolio/static/js/2.1b779768.chunk.js.map",
+    "static/js/3.23dc826d.chunk.js": "/20-react_portfolio/static/js/3.23dc826d.chunk.js",
+    "static/js/3.23dc826d.chunk.js.map": "/20-react_portfolio/static/js/3.23dc826d.chunk.js.map",
+    "index.html": "/20-react_portfolio/index.html",
+    "static/css/main.4afbc32f.chunk.css.map": "/20-react_portfolio/static/css/main.4afbc32f.chunk.css.map",
+    "static/js/2.1b779768.chunk.js.LICENSE.txt": "/20-react_portfolio/static/js/2.1b779768.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/20-react_portfolio/static/media/mountain.bf33d688.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93cdf909.js",
-    "static/js/2.9647c6d4.chunk.js",
-    "static/css/main.4f490d50.chunk.css",
-    "static/js/main.7c71b2af.chunk.js"
+    "static/js/runtime-main.2441f478.js",
+    "static/js/2.1b779768.chunk.js",
+    "static/css/main.4afbc32f.chunk.css",
+    "static/js/main.13f87602.chunk.js"
   ]
 }
