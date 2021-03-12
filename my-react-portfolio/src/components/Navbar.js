@@ -6,7 +6,7 @@ function NavBar() {
         <div>
             <nav className="navbar">
 
-            <a href="/" className="btn no-border">
+            <a href="/treat_portfolio" className="btn no-border">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">Home</button>
                 </a>
 
