@@ -8,7 +8,7 @@ function NavBar() {
 
             <a href="/20-react_portfolio">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
-                className="btn btn-dark no-border rounded-pill">Home Test 2</button>
+                className="btn btn-dark no-border rounded-pill">Home</button>
                   </a>
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"
@@ -27,12 +27,12 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
 
-                <a href="/resume" className="btn no-border">
+                <a href="/20-react_portfolio/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">View My
               Resume</button>
                 </a>
 
-                <a href="/projects" className="btn no-border">
+                <a href="/20-react_portfolio/projects">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">View My
           Projects</button>
                 </a>
