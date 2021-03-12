@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/20-react_portfolio/static/css/main.4afbc32f.chunk.css",
-    "main.js": "/20-react_portfolio/static/js/main.3a87ca0f.chunk.js",
-    "main.js.map": "/20-react_portfolio/static/js/main.3a87ca0f.chunk.js.map",
-    "runtime-main.js": "/20-react_portfolio/static/js/runtime-main.2441f478.js",
-    "runtime-main.js.map": "/20-react_portfolio/static/js/runtime-main.2441f478.js.map",
-    "static/js/2.1b779768.chunk.js": "/20-react_portfolio/static/js/2.1b779768.chunk.js",
-    "static/js/2.1b779768.chunk.js.map": "/20-react_portfolio/static/js/2.1b779768.chunk.js.map",
-    "static/js/3.23dc826d.chunk.js": "/20-react_portfolio/static/js/3.23dc826d.chunk.js",
-    "static/js/3.23dc826d.chunk.js.map": "/20-react_portfolio/static/js/3.23dc826d.chunk.js.map",
-    "index.html": "/20-react_portfolio/index.html",
-    "static/css/main.4afbc32f.chunk.css.map": "/20-react_portfolio/static/css/main.4afbc32f.chunk.css.map",
-    "static/js/2.1b779768.chunk.js.LICENSE.txt": "/20-react_portfolio/static/js/2.1b779768.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/20-react_portfolio/static/media/mountain.bf33d688.jpg"
+    "main.css": "/treact_portfolio/static/css/main.108e8348.chunk.css",
+    "main.js": "/treact_portfolio/static/js/main.3a87ca0f.chunk.js",
+    "main.js.map": "/treact_portfolio/static/js/main.3a87ca0f.chunk.js.map",
+    "runtime-main.js": "/treact_portfolio/static/js/runtime-main.e700b416.js",
+    "runtime-main.js.map": "/treact_portfolio/static/js/runtime-main.e700b416.js.map",
+    "static/js/2.1b779768.chunk.js": "/treact_portfolio/static/js/2.1b779768.chunk.js",
+    "static/js/2.1b779768.chunk.js.map": "/treact_portfolio/static/js/2.1b779768.chunk.js.map",
+    "static/js/3.23dc826d.chunk.js": "/treact_portfolio/static/js/3.23dc826d.chunk.js",
+    "static/js/3.23dc826d.chunk.js.map": "/treact_portfolio/static/js/3.23dc826d.chunk.js.map",
+    "index.html": "/treact_portfolio/index.html",
+    "static/css/main.108e8348.chunk.css.map": "/treact_portfolio/static/css/main.108e8348.chunk.css.map",
+    "static/js/2.1b779768.chunk.js.LICENSE.txt": "/treact_portfolio/static/js/2.1b779768.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/treact_portfolio/static/media/mountain.bf33d688.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2441f478.js",
+    "static/js/runtime-main.e700b416.js",
     "static/js/2.1b779768.chunk.js",
-    "static/css/main.4afbc32f.chunk.css",
+    "static/css/main.108e8348.chunk.css",
     "static/js/main.3a87ca0f.chunk.js"
   ]
 }
