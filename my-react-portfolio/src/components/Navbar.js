@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import "./style.css";
 
 function NavBar() {
@@ -6,9 +7,10 @@ function NavBar() {
         <div>
             <nav className="navbar">
 
-            <a href="/treat_portfolio" className="nav-link">
+            <Link to = '/treact_portfolio'><button>GO GOOGLE</button></Link>
+            {/* <a href="/treat_portfolio" className="nav-link">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">Home Test</button>
-                </a>
+                </a> */}
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"
                     className="btn no-border">
