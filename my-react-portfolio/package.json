@@ -1,6 +1,6 @@
 {
-  "name": "20-react-portfolio",
-  "homepage": "https://behnert.github.io/treact_portfolio",
+  "name": "treact-portfolio",
+  "homepage": "https://behnert.github.io/treact_portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
