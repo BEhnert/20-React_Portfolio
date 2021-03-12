@@ -28,12 +28,12 @@ function NavBar() {
                 </form>
 
                 <a href="/20-react_portfolio/resume">
-                    <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">View My
+                    <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
               Resume</button>
                 </a>
 
                 <a href="/20-react_portfolio/projects">
-                    <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">View My
+                    <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
           Projects</button>
                 </a>
             </nav>
