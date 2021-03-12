@@ -1,7 +1,7 @@
 import React from "react";
 import {BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./components/Home"
-import Projects from "./components/Projects"
+import Projects from "./components/projects"
 import Resume from "./components/Resume"
 import Wrapper from "./components/Wrapper"
 import NavBar from "./components/NavBar"

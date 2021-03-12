@@ -26,12 +26,12 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
 
-                <a href="resume" className="btn no-border">
+                <a href="/resume" className="btn no-border">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">View My
               Resume</button>
                 </a>
 
-                <a href="projects" className="btn no-border">
+                <a href="/projects" className="btn no-border">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">View My
           Projects</button>
                 </a>
