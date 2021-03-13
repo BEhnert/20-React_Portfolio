@@ -1,16 +1,17 @@
 import React from "react";
-import {BrowserRouter, Link} from "react-router-dom";
+import {BrowserRouter as Router, Link} from "react-router-dom";
 import "./style.css";
 
 function NavBar() {
     return (
         <div>
             <nav className="navbar">
-
-            <Link to="/">
+            <Router>
+            <Link to="/my_react_portfolio">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
                 className="btn btn-dark no-border rounded-pill">Home 4</button>
             </Link>
+            </Router>
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"
                     className="btn no-border">
@@ -27,16 +28,18 @@ function NavBar() {
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
-
+                <Router>
                 <Link to="/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
               Resume 2</button>
                 </Link>
-
+                </Router>
+                <Router>
                 <Link to="/my_react_portfolio/projects">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
           Projects</button>
                 </Link>
+                </Router>
             </nav>
 
         </div>
