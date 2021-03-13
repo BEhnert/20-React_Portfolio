@@ -8,7 +8,7 @@ function NavBar() {
 
             <a href="/my_react_portfolio">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
-                className="btn btn-dark no-border rounded-pill">Home 1</button>
+                className="btn btn-dark no-border rounded-pill">Home 2</button>
                   </a>
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"

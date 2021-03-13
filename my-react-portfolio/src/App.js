@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
         <NavBar />  
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router >
           {/* <Route exact path="/" component={Home} /> */}
           <Route exact path="/my_react_portfolio/" component={Home} />
           {/* <Route exact path="/projects" component={Projects} /> */}
