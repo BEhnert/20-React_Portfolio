@@ -1,6 +1,6 @@
 {
-  "name": "20-react_portfolio",
-  "homepage": "https://behnert.github.io/20-react_portfolio",
+  "name": "my_react_portfolio",
+  "homepage": "https://behnert.github.io/my_react_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
