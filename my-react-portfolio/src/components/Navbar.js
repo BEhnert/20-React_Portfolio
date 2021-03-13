@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "react-router-dom"
 import "./style.css";
 
 function NavBar() {
@@ -6,10 +7,10 @@ function NavBar() {
         <div>
             <nav className="navbar">
 
-            <a href="/my_react_portfolio">
+            <Link to="/">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
                 className="btn btn-dark no-border rounded-pill">Home 4</button>
-                  </a>
+            </Link>
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"
                     className="btn no-border">
@@ -27,15 +28,15 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
 
-                <a href="/my_react_portfolio/resume">
+                <Link to="/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
               Resume 2</button>
-                </a>
+                </Link>
 
-                <a href="/my_react_portfolio/projects">
+                <Link to="/my_react_portfolio/projects">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
           Projects</button>
-                </a>
+                </Link>
             </nav>
 
         </div>

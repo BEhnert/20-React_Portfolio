@@ -13,12 +13,14 @@ function App() {
     <div>
         <NavBar />  
         <Router>
-          {/* <Route exact path="/" component={Home} /> */}
-          <Route exact path="/my_react_portfolio/" component={Home} />
-          {/* <Route exact path="/projects" component={Projects} /> */}
-          <Route exact path="/my_react_portfolio/projects" component={Projects} />
-          {/* <Route exact path="/resume" component={Resume} /> */}
-          <Route exact path="/my_react_portfolio/resume" component={Resume} />
+          <Switch>
+          <Route exact path="/" component={Home} />
+          {/* <Route exact path="/my_react_portfolio/" component={Home} /> */}
+          <Route exact path="/projects" component={Projects} />
+          {/* <Route exact path="/my_react_portfolio/projects" component={Projects} /> */}
+          <Route exact path="/resume" component={Resume} />
+          {/* <Route exact path="/my_react_portfolio/resume" component={Resume} /> */}
+          </Switch>
           </Router>
         
         <Footer />
