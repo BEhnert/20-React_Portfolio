@@ -1,4 +1,5 @@
 import React from "react";
+// import NavBar from "./Navbar"
 import './style.css';
 
 function Resume() {
@@ -15,6 +16,7 @@ function Resume() {
                 <title>Brock Ehnert</title>
 
                 <body>
+                    {/* <NavBar /> */}
                     <div class="col-md-12 m-auto">
                         <iframe title="resume" src="https://drive.google.com/file/d/18__uYqdf8sOU4iYoBrVFS5O5AjuMwxGw/preview" width="800" height="880"></iframe>
                     </div>

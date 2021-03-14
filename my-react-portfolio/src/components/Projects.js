@@ -1,4 +1,5 @@
 import React from "react";
+// import NavBar from "./Navbar"
 import './style.css';
 
 function Projects() {
@@ -16,7 +17,7 @@ function Projects() {
                 <title>Brock Ehnert</title>
 
                 <body>
-
+{/* <NavBar /> */}
                     <div className="col-md-10 m-auto">
                         <div className="jumbotron" style={{ background: "rgba(171, 196, 206, 0.85)" }}>
                             <div className="container-fluid">
