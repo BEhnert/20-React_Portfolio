@@ -7,9 +7,9 @@ function NavBar() {
         <div>
             <nav className="navbar">
             <Router>
-            <Link to="/20-react_portfolio">
+            <Link to="/20-react_portfolio" onClick={() => window.location.reload()}>
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
-                className="btn btn-dark no-border rounded-pill">Home 4</button>
+                className="btn btn-dark no-border rounded-pill">Home</button>
             </Link>
             </Router>
 
@@ -29,13 +29,13 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
                 <Router>
-                <Link to="/20-react_portfolio/resume">
+                <Link to="/20-react_portfolio/resume" onClick={() => window.location.reload()}>
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
-              Resume 3</button>
+              Resume</button>
                 </Link>
                 </Router>
                 <Router>
-                <Link to="/20-react_portfolio/projects">
+                <Link to="/20-react_portfolio/projects" onClick={() => window.location.reload()}>
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
           Projects</button>
                 </Link>
