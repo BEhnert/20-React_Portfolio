@@ -1,12 +1,12 @@
 import React from "react";
 import './style.css';
-// import NavBar from "../Navbar"
+import NavBar from "../Navbar"
 // import Footer from "../../components/Footer"
 
 function Home() {
   return (
     <div>
-      {/* <NavBar /> */}
+      <NavBar />
       <div className="Home">
         <head>
           <meta charset="utf-8"></meta>

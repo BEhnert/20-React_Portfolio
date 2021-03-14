@@ -7,10 +7,12 @@ function NavBar() {
         <div>
             <nav className="navbar">
             <Router>
+                <nav>
             <Link to="/20-react_portfolio">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
                 className="btn btn-dark no-border rounded-pill">Home 4</button>
             </Link>
+            </nav>
             </Router>
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"
@@ -29,16 +31,20 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
                 <Router>
+                    <nav>
                 <Link to="/20-react_portfolio/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
               Resume 3</button>
                 </Link>
+                </nav>
                 </Router>
                 <Router>
+                <nav>
                 <Link to="/20-react_portfolio/projects">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
-          Projects</button>
+          Projects 5</button>
                 </Link>
+                </nav>
                 </Router>
             </nav>
 
