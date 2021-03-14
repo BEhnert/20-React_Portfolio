@@ -29,9 +29,9 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
                 <Router>
-                <Link to="/resume">
+                <Link to="/my_react_portfolio/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
-              Resume 3</button>
+              Resume 2</button>
                 </Link>
                 </Router>
                 <Router>
