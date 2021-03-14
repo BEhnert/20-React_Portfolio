@@ -6,12 +6,12 @@ function NavBar() {
     return (
         <div>
             <nav className="navbar">
-            {/* <Router> */}
+            <Router>
             <Link to="/my_react_portfolio">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
                 className="btn btn-dark no-border rounded-pill">Home 4</button>
             </Link>
-            {/* </Router> */}
+            </Router>
 
                 <form action="https://www.linkedin.com/in/brockehnert/" method="get" target="_blank"
                     className="btn no-border">
@@ -28,18 +28,18 @@ function NavBar() {
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
-                {/* <Router> */}
-                <Link to="./my_react_portfolio/resume">
+                <Router>
+                <Link to="/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
-              Resume 2</button>
+              Resume 3</button>
                 </Link>
-                {/* </Router> */}
-                {/* <Router> */}
+                </Router>
+                <Router>
                 <Link to="/my_react_portfolio/projects">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
-          Projects 2</button>
+          Projects</button>
                 </Link>
-                {/* </Router> */}
+                </Router>
             </nav>
 
         </div>
