@@ -7,7 +7,7 @@ function NavBar() {
         <div>
             <nav className="navbar">
             <Router>
-            <Link to="/my_react_portfolio">
+            <Link to="/20-react_portfolio">
                 <button style={{ backgroundColor: "rgb(32, 32, 212)" }} 
                 className="btn btn-dark no-border rounded-pill">Home 4</button>
             </Link>
@@ -29,13 +29,13 @@ function NavBar() {
                         className="btn btn-dark no-border rounded-pill">Email</button>
                 </form>
                 <Router>
-                <Link to="/my_react_portfolio/resume">
+                <Link to="/20-react_portfolio/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
               Resume 3</button>
                 </Link>
                 </Router>
                 <Router>
-                <Link to="/my_react_portfolio/projects">
+                <Link to="/20-react_portfolio/projects">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
           Projects</button>
                 </Link>
