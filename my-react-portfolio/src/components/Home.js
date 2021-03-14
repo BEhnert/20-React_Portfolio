@@ -1,6 +1,6 @@
 import React from "react";
 import './style.css';
-import NavBar from "../Navbar"
+import NavBar from "./Navbar"
 // import Footer from "../../components/Footer"
 
 function Home() {

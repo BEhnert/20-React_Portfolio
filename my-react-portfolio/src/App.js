@@ -15,14 +15,18 @@ function App() {
         <Router>
           <Switch>
        
-          {/* <Route exact path="/_react_portfolio/" component={Home} /> */}
+          <Route exact path="/" component={Home} />
           {/* <Route exact path="/projects" component={Projects} /> */}
-          <Route exact path="/20-react_portfolio/projects">
+          <Route exact path="/projects">
             <Projects />
           </Route>
           {/* <Route exact path="/resume" component={Resume} /> */}
-          <Route exact path="/20-react_portfolio/resume" component={Resume}></Route>
-          <Route exact path="/20-react_portfolio" component={Home}></Route>
+          <Route exact path="/20-react_portfolio/resume">
+            <Resume />
+          </Route>
+          <Route exact path="/20-react_portfolio">
+            <Home />
+          </Route>
           </Switch>
           </Router>
         
