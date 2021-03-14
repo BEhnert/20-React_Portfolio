@@ -31,7 +31,7 @@ function NavBar() {
                 <Router>
                 <Link to="/my_react_portfolio/resume">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} className="btn btn-dark no-border rounded-pill">
-              Resume 2</button>
+              Resume 3</button>
                 </Link>
                 </Router>
                 <Router>
