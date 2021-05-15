@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/20-react_portfolio/static/css/main.4afbc32f.chunk.css",
-    "main.js": "/20-react_portfolio/static/js/main.24fda3b8.chunk.js",
-    "main.js.map": "/20-react_portfolio/static/js/main.24fda3b8.chunk.js.map",
+    "main.js": "/20-react_portfolio/static/js/main.b71babcd.chunk.js",
+    "main.js.map": "/20-react_portfolio/static/js/main.b71babcd.chunk.js.map",
     "runtime-main.js": "/20-react_portfolio/static/js/runtime-main.9365a33b.js",
     "runtime-main.js.map": "/20-react_portfolio/static/js/runtime-main.9365a33b.js.map",
     "static/js/2.c72287cf.chunk.js": "/20-react_portfolio/static/js/2.c72287cf.chunk.js",
@@ -12,12 +12,18 @@
     "index.html": "/20-react_portfolio/index.html",
     "static/css/main.4afbc32f.chunk.css.map": "/20-react_portfolio/static/css/main.4afbc32f.chunk.css.map",
     "static/js/2.c72287cf.chunk.js.LICENSE.txt": "/20-react_portfolio/static/js/2.c72287cf.chunk.js.LICENSE.txt",
+    "static/media/Coding_Quiz.4e066fea.png": "/20-react_portfolio/static/media/Coding_Quiz.4e066fea.png",
+    "static/media/Day_Planner.f860843d.png": "/20-react_portfolio/static/media/Day_Planner.f860843d.png",
+    "static/media/FairWeather_Adventures.bda23488.png": "/20-react_portfolio/static/media/FairWeather_Adventures.bda23488.png",
+    "static/media/Household_Optimizer.94358d86.png": "/20-react_portfolio/static/media/Household_Optimizer.94358d86.png",
+    "static/media/TC_Food_Share.8675a6e3.png": "/20-react_portfolio/static/media/TC_Food_Share.8675a6e3.png",
+    "static/media/Weather_Dashboard.14ed8218.png": "/20-react_portfolio/static/media/Weather_Dashboard.14ed8218.png",
     "static/media/style.css": "/20-react_portfolio/static/media/mountain.bf33d688.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9365a33b.js",
     "static/js/2.c72287cf.chunk.js",
     "static/css/main.4afbc32f.chunk.css",
-    "static/js/main.24fda3b8.chunk.js"
+    "static/js/main.b71babcd.chunk.js"
   ]
 }
