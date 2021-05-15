@@ -4,7 +4,7 @@ import Home from "./components/Home"
 import Projects from "./components/Projects"
 import Resume from "./components/Resume"
 // import Wrapper from "./components/Wrapper"
-import NavBar from "./components/NavBar"
+import NavBar from "./components/Navbar"
 import Footer from "./components/Footer"
 import "./components/style.css"
 
@@ -13,6 +13,7 @@ function App() {
     <div>
        
         <Router>
+          <div className="container" style={{border:'20px'}}>
         <nav className="navbar">
                 <nav>
             <Link to="/20-react_portfolio">
@@ -32,10 +33,10 @@ function App() {
                         className="btn btn-dark  no-border rounded-pill">Github</button>
                 </form>
 
-                <form action="https://mailto:behnert77@gmail.com" method="get" target="_top" className="btn no-border">
+                {/* <form action="https://mailto:behnert77@gmail.com" method="get" target="_top" className="btn no-border">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
                         className="btn btn-dark no-border rounded-pill">Email</button>
-                </form>
+                </form> */}
               
                     <nav>
                 <Link to="/20-react_portfolio/resume">
@@ -53,6 +54,7 @@ function App() {
                 </nav>
               
             </nav>
+            </div>
           <Switch>
        
           <Route exact path="/" component={Home} />

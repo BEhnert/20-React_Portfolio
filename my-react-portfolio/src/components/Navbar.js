@@ -26,10 +26,10 @@ function NavBar() {
                         className="btn btn-dark  no-border rounded-pill">Github</button>
                 </form>
 
-                <form action="https://mailto:behnert77@gmail.com" method="get" target="_top" className="btn no-border">
+                {/* <form action="https://mailto:behnert77@gmail.com" method="get" target="_top" className="btn no-border">
                     <button style={{ backgroundColor: "rgb(32, 32, 212)" }} type="submit"
                         className="btn btn-dark no-border rounded-pill">Email</button>
-                </form>
+                </form> */}
                 <Router>
                     <nav>
                 <Link to="/20-react_portfolio/resume">

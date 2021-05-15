@@ -31,7 +31,11 @@ function Home() {
               certificate from the University of Minnesota.  Over the course, I learned multiple languages and coding standards in HTML, CSS, JavaScript/NodeJS, mySQL, React.js, and more.
               Creative problem-solver and engaging team player on many clients serving as liaison between client, software provider, internal consulting team, other 3rd party integrators, and management.
          Driven to utilize these newly acquired skills to bring value by testing/refactoring code, developing/refining applications, and collaborating with a team to deliver effective, efficient, and robust applications to clients.</p>
+            <br></br><br></br><br></br>
             </div>
+            <p className="lead" style={{fontSize: "25px", fontWeight: "450"}}>Contact Information<br></br>
+            Phone #: 952-797-4865<br></br>
+            Email: behnert77@gmail.com</p>
           </div>
         </div>
       </div>

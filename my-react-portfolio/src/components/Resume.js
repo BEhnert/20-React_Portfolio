@@ -18,7 +18,7 @@ function Resume() {
                 <body>
                     {/* <NavBar /> */}
                     <div class="col-md-12 m-auto">
-                        <iframe title="resume" src="https://drive.google.com/file/d/18__uYqdf8sOU4iYoBrVFS5O5AjuMwxGw/preview" width="800" height="880"></iframe>
+                        <iframe title="resume" src="https://docs.google.com/document/d/e/2PACX-1vQ2lNkI1VUFBkV8bVe75LkIy1kP1REDRrOlAD4qqAuarobht-LsgkdGyw0PnuotGkjRz4cR14CFhNI4/pub?embedded=true" width="800" height="880"></iframe>
                     </div>
                 </body>
             </div>
